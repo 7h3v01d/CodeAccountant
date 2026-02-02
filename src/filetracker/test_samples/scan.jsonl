@@ -1,0 +1,22 @@
+{"name": ".gitignore", "raw_path": ".\\.pytest_cache\\.gitignore", "size_bytes": 39, "mtime": 1752993528.4868538, "mime_type": "text/plain", "content_type": "Other"}
+{"name": "CACHEDIR.TAG", "raw_path": ".\\.pytest_cache\\CACHEDIR.TAG", "size_bytes": 191, "mtime": 1752993528.488848, "mime_type": "unknown", "content_type": "Other"}
+{"name": "Console.bat", "raw_path": ".\\Console.bat", "size_bytes": 37, "mtime": 1751266550.683449, "mime_type": "text/plain", "content_type": "Other"}
+{"name": "FileTracker ExtremeCLI Forensicv2.zip", "raw_path": ".\\FileTracker ExtremeCLI Forensicv2.zip", "size_bytes": 5922, "mtime": 1753011678.1343105, "mime_type": "application/x-zip-compressed", "content_type": "Other"}
+{"name": "FileTracker_Extreme_CLi_v1.0.zip", "raw_path": ".\\FileTracker_Extreme_CLi_v1.0.zip", "size_bytes": 5031, "mtime": 1753011163.0814655, "mime_type": "application/x-zip-compressed", "content_type": "Other"}
+{"name": "New Text Document.txt", "raw_path": ".\\New Text Document.txt", "size_bytes": 54, "mtime": 1753009940.6040995, "mime_type": "text/plain", "content_type": "Other"}
+{"name": "Old.rar", "raw_path": ".\\Old.rar", "size_bytes": 21827, "mtime": 1753013714.6869411, "mime_type": "unknown", "content_type": "Other"}
+{"name": "README.md", "raw_path": ".\\.pytest_cache\\README.md", "size_bytes": 310, "mtime": 1752993528.485857, "mime_type": "unknown", "content_type": "Other"}
+{"name": "filetracker_cli.cpython-311.pyc", "raw_path": ".\\__pycache__\\filetracker_cli.cpython-311.pyc", "size_bytes": 11351, "mtime": 1753012874.6816368, "mime_type": "application/x-python-code", "content_type": "Other"}
+{"name": "filetracker_cli.py", "raw_path": ".\\filetracker_cli.py", "size_bytes": 7974, "mtime": 1753013609.9261503, "mime_type": "text/x-python", "content_type": "Other"}
+{"name": "filetracker_cli_v3.0.py", "raw_path": ".\\filetracker_cli_v3.0.py", "size_bytes": 6268, "mtime": 1753012866.328724, "mime_type": "text/x-python", "content_type": "Other"}
+{"name": "filetracker_extreme.cpython-311.pyc", "raw_path": ".\\__pycache__\\filetracker_extreme.cpython-311.pyc", "size_bytes": 15568, "mtime": 1753005284.76642, "mime_type": "application/x-python-code", "content_type": "Other"}
+{"name": "filetracker_extreme.py", "raw_path": ".\\filetracker_extreme.py", "size_bytes": 9624, "mtime": 1753005001.9693723, "mime_type": "text/x-python", "content_type": "Other"}
+{"name": "gpg4win-4.4.1.exe", "raw_path": ".\\gpg4win-4.4.1.exe", "size_bytes": 36195976, "mtime": 1753014924.0174725, "mime_type": "application/x-msdownload", "content_type": "Other"}
+{"name": "installs.bat", "raw_path": ".\\installs.bat", "size_bytes": 68, "mtime": 1752993127.510585, "mime_type": "text/plain", "content_type": "Other"}
+{"name": "lastfailed", "raw_path": ".\\.pytest_cache\\v\\cache\\lastfailed", "size_bytes": 2, "mtime": 1753012875.0699503, "mime_type": "unknown", "content_type": "Other"}
+{"name": "nodeids", "raw_path": ".\\.pytest_cache\\v\\cache\\nodeids", "size_bytes": 616, "mtime": 1753012875.060442, "mime_type": "unknown", "content_type": "Other"}
+{"name": "results.csv", "raw_path": ".\\results.csv", "size_bytes": 2642, "mtime": 1753010192.052381, "mime_type": "application/vnd.ms-excel", "content_type": "Other"}
+{"name": "scan.jsonl", "raw_path": ".\\scan.jsonl", "size_bytes": 5005, "mtime": 1753016213.0361373, "mime_type": "unknown", "content_type": "Other"}
+{"name": "scan.jsonl.hash", "raw_path": ".\\scan.jsonl.hash", "size_bytes": 1452, "mtime": 1753016213.058078, "mime_type": "unknown", "content_type": "Other"}
+{"name": "test_filetracker.cpython-311-pytest-8.4.1.pyc", "raw_path": ".\\__pycache__\\test_filetracker.cpython-311-pytest-8.4.1.pyc", "size_bytes": 23656, "mtime": 1753012645.281584, "mime_type": "application/x-python-code", "content_type": "Other"}
+{"name": "test_filetracker.py", "raw_path": ".\\test_filetracker.py", "size_bytes": 5121, "mtime": 1753012636.3099053, "mime_type": "text/x-python", "content_type": "Other"}

@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codeaccountant"
+version = "0.1.0"
+description = "A private, newbie-friendly IDE for solo coders"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [{name = "Your Name", email = "your.email@example.com"}]
+dependencies = [
+    "python-dependency-checker",
+    "watchdog>=6.0.0",
+    "pygls>=1.3.1",
+    "debugpy>=1.8.15",
+    "spacy>=3.8.7",
+    "presidio-analyzer>=2.2.359",
+    "pandas>=2.3.1",
+    "scikit-learn>=1.7.1",
+    "pyperclip>=1.9.0",
+    "diffoscope>=301",
+    "python-magic-bin>=0.4.14"
+]
+[project.scripts]
+codeaccountant = "cli:main"
+
+[tool.setuptools]
+py-modules = ["cli", "gui", "config", "snapshot", "watcher"]

@@ -1,0 +1,19 @@
+# codebuilder/pyproject.toml
+[build-system]
+requires = ["setuptools>=77.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "codebuilder"
+version = "0.8.0"
+description = "Multi-language code compiler and runner"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [{name = "Your Name", email = "your.email@example.com"}]
+dependencies = []
+
+[tool.setuptools]
+packages = ["codebuilder", "codebuilder.languages", "codebuilder.utils"]
+package-dir = {"codebuilder" = "."}
+include-package-data = true

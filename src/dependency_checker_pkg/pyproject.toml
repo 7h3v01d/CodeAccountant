@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "python-dependency-checker"
+version = "0.1.0"
+description = "A CLI tool to scan and install Python project dependencies"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Leon Priest", email = "leonpriest76@gmail.com"}
+]
+dependencies = [
+    "python-magic"
+]
+
+[project.scripts]
+depcheck = "dependency_cli:main"
+
+[tool.setuptools]
+py-modules = ["dependency_cli", "dependency_core"]
